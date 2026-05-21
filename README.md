@@ -1,3 +1,4 @@
+```md
 <img width="260" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
 <h1 align="center">Hi, I'm Osama Kord</h1>
@@ -13,19 +14,19 @@
 
 ---
 
-### About Me
+## About Me
 
-- Full Stack Django & React Developer at **Kent Business College**, from **January 2026 to Present**.
-- **ITI Graduate**, specialised in **.NET & Angular**.
+- Full Stack Django & React Developer at **Kent Business College** since **January 2026**.
+- **ITI Graduate**, specialized in **.NET & Angular**.
 - Computer Engineering graduate with a strong interest in backend systems, dashboards, automation, and modern web applications.
-- Experienced with **Django, React, Angular, JavaScript, TypeScript, Python, C#, SQL, ASP.NET, REST APIs, and database-driven applications**.
+- Experienced in **Django, React, Angular, JavaScript, TypeScript, Python, C#, SQL, ASP.NET, REST APIs, and database-driven applications**.
 - Strong foundation in full stack development using both **Python/Django ecosystems** and **Microsoft .NET technologies**.
-- I enjoy building practical systems that solve real business problems.
-- Coffee enthusiast, my ideal productive day starts with a good cup of coffee.
+- Passionate about building practical systems that solve real business problems.
+- Coffee enthusiast — my ideal productive day starts with a good cup of coffee.
 
 ---
 
-### Connect with Me
+## Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/osama-gamal266" target="_blank">
@@ -43,21 +44,21 @@
 
 ---
 
-### Tech Stack
+## Tech Stack
 
-#### Frontend
+### Frontend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css,bootstrap,tailwind" alt="Frontend Skills" />
 </p>
 
-#### Backend
+### Backend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,cs,dotnet,nodejs" alt="Backend Skills" />
 </p>
 
-#### Database & Tools
+### Database & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,vscode,visualstudio,postman,docker" alt="Database and Tools" />
@@ -65,7 +66,7 @@
 
 ---
 
-### Professional Focus
+## Professional Focus
 
 <p align="left">
   <img src="https://img.shields.io/badge/Backend%20Development-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
@@ -79,7 +80,7 @@
 
 ---
 
-### Education & Training
+## Education & Training
 
 <p align="left">
   <img src="https://img.shields.io/badge/ITI%20Graduate-.NET%20%26%20Angular-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ITI Graduate .NET and Angular" />
@@ -88,7 +89,7 @@
 
 ---
 
-### GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=osama-kord&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats" />
@@ -100,8 +101,9 @@
 
 ---
 
-### Profile Views
+## Profile Views
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=osama-kord&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 </p>
+```
