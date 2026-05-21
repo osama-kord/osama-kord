@@ -1,44 +1,95 @@
+<img width="260" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<h1 align="center">Hi, I'm Osama Kord</h1>
 
 <h3 align="center">
-  Welcome to Osama Kord's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Full Stack Django & React Developer
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" />
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=22C55E&center=true&vCenter=true&width=620&lines=Full+Stack+Web+Developer;Django+%26+React+Developer;Always+Learning+New+Technologies;Building+Clean+and+Scalable+Web+Apps" alt="Typing SVG" />
+</p>
 
-- 🏢 I'm a full stack developer using dot net , trainee @ ITI and instructor @ 3C Company.
-- 👨‍💻 As a Computer Engineering graduate, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C#, SQL, and ASP .Net, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+---
 
+### About Me
 
-### Connect with Me :
+- Full Stack Django & React Developer at **Kent Business College**, from **January 2026 to Present**.
+- Computer Engineering graduate with a strong interest in backend systems, dashboards, automation, and modern web applications.
+- Experienced with **Django, React, JavaScript, Python, C#, SQL, ASP.NET, REST APIs, and database-driven applications**.
+- Previously worked with .NET development, ITI training, and programming instruction.
+- I enjoy building practical systems that solve real business problems.
+- Coffee enthusiast, my ideal productive day starts with a good cup of coffee.
 
-<a href="https://linkedin.com/in/osama-kord2080a7271" target="_blank"><img src="https://img.shields.io/badge/Osama%20Kord?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/osama11221122" target="_blank"><img src="https://img.shields.io/badge/Osama%20Kord-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+---
 
+### Connect with Me
 
-### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+<p align="left">
+  <a href="https://www.linkedin.com/in/osama-gamal266" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Osama%20Gamal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
+  <a href="https://t.me/osama11221122" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Osama%20Kord-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 
+  <a href="mailto:osamagamalmohammed@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
+---
 
+### Tech Stack
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
+#### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,tailwind" alt="Frontend Skills" />
+</p>
+
+#### Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,cs,dotnet,nodejs" alt="Backend Skills" />
+</p>
+
+#### Database & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,vscode,postman,docker" alt="Database and Tools" />
+</p>
+
+---
+
+### Professional Focus
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Backend%20Development-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Frontend%20Development-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/API%20Development-REST-FF6F00?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Automation-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+</p>
+
+---
+
+### GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=osama-kord&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osama-kord&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" />
+</p>
+
+---
+
+### Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=osama-kord&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+</p>
